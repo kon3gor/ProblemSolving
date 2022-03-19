@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cci.arrays.RotateImageTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-19T15:13:14" hostname="eshendo-osx" time="0.015">
+  <properties/>
+  <testcase name="testCase1()" classname="cci.arrays.RotateImageTest" time="0.013"/>
+  <testcase name="testCase2()" classname="cci.arrays.RotateImageTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
